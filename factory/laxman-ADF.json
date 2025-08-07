@@ -1,0 +1,9 @@
+{
+	"name": "laxman-ADF",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "82d209f4-05ec-4fb4-b2d9-d96f99411420",
+		"tenantId": "b99c31bf-5d1b-4b3b-8db3-98d23d07e09c"
+	}
+}
